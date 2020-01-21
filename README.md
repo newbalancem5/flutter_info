@@ -33,8 +33,8 @@
 ###### FlutterDevPodcast [Soundcloud](https://youtu.be/aV8Xz-T86qk) [ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
 
 ### Каналы ###
-[Dart & Flutter по-русски](https://t.me/rudart)
-[Flutter For Dev](https://t.me/FlutterDevRu)
-[Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)
-[Flutter Dev Подкаст](https://t.me/flutterdevpodcast)
-[🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
+- [Dart & Flutter по-русски](https://t.me/rudart)
+- [Flutter For Dev](https://t.me/FlutterDevRu)
+- [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)
+- [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)
+- [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
