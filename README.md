@@ -1,5 +1,5 @@
 
 ### 📚Сборник информации про Flutter ###
 
-!(/assets/logo.png)
+![FlutterInfo](/assets/logo.png)
 
