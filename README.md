@@ -45,11 +45,19 @@
 - [Основы RxVMS: RxCommand и GetIt](https://habr.com/ru/post/449872/)
 - RxVMS: Службы и Менеджеры
 - RxVMS: самодостаточные виджеты
-- Аутентификация пользователя посредством RxVMS  
+- Аутентификация пользователя посредством RxVMS
+  
 
 ###### Статьи на Habr
 - [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/)
+- [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
+- [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)
+- [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)
 
+
+
+###### Статьи на Medium
+- [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
 
 
 ### Подкасты ###
@@ -57,10 +65,21 @@
 - [Soundcloud](https://youtu.be/aV8Xz-T86qk) 
 - [ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
 
-### Каналы ###
+### Каналы Telegram ###
 - [Dart & Flutter по-русски](https://t.me/rudart)
 - [Flutter For Dev](https://t.me/FlutterDevRu)
 - [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)
 - [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)
 - [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
 - [It challenge](https://t.me/It_challenge)
+
+
+###### Каналы с вакансиями
+[Dart Jobs](https://t.me/dartlang_jobs)
+
+
+
+
+### Сайты с информацией про Flutter
+- [Flutter уроки](https://flutter.su/)
+- [Metanit](https://metanit.com/dart/flutter/1.1.php)
