@@ -53,3 +53,4 @@
 - [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)
 - [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)
 - [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
+- [It challenge](https://t.me/It_challenge)
