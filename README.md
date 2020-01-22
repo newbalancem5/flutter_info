@@ -53,6 +53,7 @@
 - [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
 - [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)
 - [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)
+- [Как работает Flutter](https://habr.com/ru/post/476018/)
 
 
 
