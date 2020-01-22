@@ -27,8 +27,6 @@
 
 ### Статьи ###
 
-### Каналы ###
-
 ### Подкасты ###
 ###### FlutterDevPodcast
 - [Soundcloud](https://youtu.be/aV8Xz-T86qk) 
