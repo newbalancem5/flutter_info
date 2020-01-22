@@ -22,7 +22,12 @@
 * [Павел Герасимов, Wrike – Что будет, если выбрать Dart для диссертации](https://youtu.be/viz29imnFlc)
 * [Максим Гребенщиков – Dart puzzlers 3: Last Sith](https://youtu.be/aV8Xz-T86qk)
 
+###### Ozon Meetup
+[Весь Митап](https://www.youtube.com/watch?v=_KMgVJ0mOmw)
+* [Игорь Кравченко, "Как я изучал Flutter или meows.app с 0 до прода"](https://youtu.be/97IPmkXL2Sc)
 
+###### DartUP 2019
+Игорь Кравченко, "Как я изучал Flutter или meows.app с 0 до прода"
 
 
 ### Статьи ###
