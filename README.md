@@ -81,5 +81,5 @@
 
 
 ### Сайты с информацией про Flutter
-- [Flutter уроки](https://flutter.su/)
+- [Flutter.su](https://flutter.su/)
 - [Metanit](https://metanit.com/dart/flutter/1.1.php)
