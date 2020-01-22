@@ -38,7 +38,17 @@
 * Flutter. Часть 4. Для Web-разработчиков
 * Flutter. Часть 5. Для Xamarin.Forms-разработчиков
 
+###### Серия статей про архитектуру Futter
+- [Введение](https://habr.com/ru/post/448776/)
+- [Основы Dart Streams](https://habr.com/ru/post/450950/)
+- [RxDart: магические трансформации потоков](https://habr.com/ru/post/451292/)
+- [Основы RxVMS: RxCommand и GetIt](https://habr.com/ru/post/449872/)
+- RxVMS: Службы и Менеджеры
+- RxVMS: самодостаточные виджеты
+- Аутентификация пользователя посредством RxVMS  
 
+###### Статьи на Habr
+- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/)
 
 
 
