@@ -30,7 +30,7 @@
 ### Каналы ###
 
 ### Подкасты ###
-###### FlutterDevPodcast -[Soundcloud](https://youtu.be/aV8Xz-T86qk) -[ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
+###### FlutterDevPodcast - [Soundcloud](https://youtu.be/aV8Xz-T86qk) - [ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
 
 ### Каналы ###
 - [Dart & Flutter по-русски](https://t.me/rudart)
