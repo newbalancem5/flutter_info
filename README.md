@@ -75,6 +75,7 @@
 - [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
 - [It challenge](https://t.me/It_challenge)
 - [Flutter ресурсы](https://t.me/flutter_resources)
+- [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev)
 
 
 ###### Каналы с вакансиями
