@@ -27,6 +27,17 @@
 
 ### Статьи ###
 
+###### [По докам] Flutter
+* [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/)
+* [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/)
+* [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/)
+* [Flutter. Часть 4. Для Web-разработчиков]()
+* [Flutter. Часть 5. Для Xamarin.Forms-разработчиков]()
+
+
+
+
+
 ### Подкасты ###
 ###### FlutterDevPodcast
 - [Soundcloud](https://youtu.be/aV8Xz-T86qk) 
