@@ -28,6 +28,12 @@
 * [Игорь Кравченко, "Как я изучал Flutter или meows.app с 0 до прода"](https://youtu.be/97IPmkXL2Sc)
 * [Юлия Григорьева, "Опыт написания Plugin Package для мобильных платформ"](https://youtu.be/Pmxv-OZH0IU)
 
+###### 404fest
+[Евгений Кот — Flutter против мобильной Инквизиции](https://youtu.be/EazZVeXSqGQ)
+
+###### iTechMeetup Grodno #4
+[Flutter. Год после релиза](https://youtu.be/zMcME7mAB50)
+
 
 ### Статьи ###
 
