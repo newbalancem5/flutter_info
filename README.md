@@ -32,7 +32,7 @@
 [Евгений Кот — Flutter против мобильной Инквизиции](https://youtu.be/EazZVeXSqGQ)
 
 ###### iTechMeetup Grodno #4
-[Flutter. Год после релиза](https://youtu.be/zMcME7mAB50)
+[Александр Терешков - Flutter. Год после релиза](https://youtu.be/zMcME7mAB50)
 
 
 ### Статьи ###
