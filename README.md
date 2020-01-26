@@ -68,14 +68,14 @@
 - [ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
 
 ### Каналы Telegram ###
-- [Dart & Flutter по-русски](https://t.me/rudart)
-- [Flutter For Dev](https://t.me/FlutterDevRu)
-- [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)
-- [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)
-- [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)
-- [It challenge](https://t.me/It_challenge)
-- [Flutter ресурсы](https://t.me/flutter_resources)
-- [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev)
+- [Dart & Flutter по-русски](https://t.me/rudart) [ссылка2](https://t.me/rudart)
+- [Flutter For Dev](https://t.me/FlutterDevRu) [ссылка2](https://t.me/FlutterDevRu)
+- [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus) [ссылка2](https://t.me/flutter_rus)
+- [Flutter Dev Подкаст](https://t.me/flutterdevpodcast) [ссылка2](https://t.me/flutterdevpodcast)
+- [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news) [ссылка2](https://teleg.run/flutterdevpodcast_news)
+- [It challenge](https://t.me/It_challenge) [ссылка2](https://teleg.run/It_challenge)
+- [Flutter ресурсы](https://t.me/flutter_resources) [ссылка2](https://teleg.run/flutter_resources)
+- [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev) [ссылка2](https://teleg.run/Flutter_Mobile_Dev)
 
 
 ###### Каналы с вакансиями
