@@ -35,6 +35,10 @@
 [Александр Терешков - Flutter. Год после релиза](https://youtu.be/zMcME7mAB50)
 
 
+
+### Видео посвященные Flutter
+[comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
+
 ### Статьи ###
 
 ###### [По докам] Flutter
