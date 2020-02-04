@@ -45,7 +45,7 @@
 * [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/)
 * [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/)
 * [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/)
-* Flutter. Часть 4. Для Web-разработчиков
+* [Flutter. Часть 4. Для Web-разработчиков](https://habr.com/ru/company/funcorp/blog/486822/)
 * Flutter. Часть 5. Для Xamarin.Forms-разработчиков
 
 ###### Серия статей про архитектуру Futter
