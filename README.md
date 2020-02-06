@@ -65,6 +65,7 @@
 - [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)
 - [Как работает Flutter](https://habr.com/ru/post/476018/)
 - [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/)
+- [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/)
 
 
 
@@ -86,11 +87,10 @@
 - [It challenge](https://t.me/It_challenge)   [ссылка2](https://teleg.run/It_challenge)
 - [Flutter ресурсы](https://t.me/flutter_resources)   [ссылка2](https://teleg.run/flutter_resources)
 - [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev)   [ссылка2](https://teleg.run/Flutter_Mobile_Dev)
-
+- [Flutter Russia Events](https://t.me/FlutterRussia) [ссылка2](https://teleg.run/FlutterRussia)
 
 ###### Каналы с вакансиями
 [Dart Jobs](https://t.me/dartlang_jobs)
-
 
 
 
