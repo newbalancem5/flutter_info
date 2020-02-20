@@ -36,8 +36,8 @@
 
 ###### GDG Meetup Multiplatform
 [Полная запись](https://youtu.be/UGyIE-VSCFo)
-[Евгений Кот, Wrike — Flutter platform channels: мосты дружбы](https://youtu.be/UGyIE-VSCFo?t=643)
-[Александр Денисов, EPAM — «Flutter. Bloc или Redux?»](https://youtu.be/UGyIE-VSCFo?t=5148)
+*[Евгений Кот, Wrike — Flutter platform channels: мосты дружбы](https://youtu.be/UGyIE-VSCFo?t=643)
+*[Александр Денисов, EPAM — «Flutter. Bloc или Redux?»](https://youtu.be/UGyIE-VSCFo?t=5148)
 
 
 
