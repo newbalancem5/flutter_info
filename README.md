@@ -71,6 +71,7 @@
 - [Как работает Flutter](https://habr.com/ru/post/476018/)
 - [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/)
 - [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/)
+- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)
 
 
 
