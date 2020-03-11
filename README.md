@@ -95,6 +95,7 @@
 - [Flutter resources](https://t.me/flutter_resources)   [ссылка2](https://teleg.run/flutter_resources)
 - [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev)   [ссылка2](https://teleg.run/Flutter_Mobile_Dev)
 - [Flutter Russia Events](https://t.me/FlutterRussia) [ссылка2](https://teleg.run/FlutterRussia)
+- [Flutter Architecture](https://t.me/flutter_architecture) [ссылка2](https://teleg.run/flutter_architecture)
 
 ###### Каналы с вакансиями
 [Dart Jobs](https://t.me/dartlang_jobs)
