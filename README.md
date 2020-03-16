@@ -44,6 +44,8 @@
 ### Видео посвященные Flutter
 [comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
+[8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
+[Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
 
 ### Статьи ###
 
