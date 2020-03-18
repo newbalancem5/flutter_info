@@ -45,7 +45,7 @@
 [comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
 [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
-[Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
+
 
 ### Статьи ###
 
@@ -74,8 +74,8 @@
 - [Как работает Flutter](https://habr.com/ru/post/476018/)
 - [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/)
 - [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/)
-- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)
-
+- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
+- [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
 
 
 ###### Статьи на Medium
