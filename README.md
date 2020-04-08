@@ -80,7 +80,7 @@
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
 
 ###### Другие порталы
--[Flutter - Firebase Realtime действия с базой данных](https://iswift.ru/articles/ru/flutter-firebase-realtime-database-crud-operation-ru)
+- [Flutter - Firebase Realtime действия с базой данных](https://iswift.ru/articles/ru/flutter-firebase-realtime-database-crud-operation-ru)
 
 
 ### Подкасты ###
