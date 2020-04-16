@@ -75,6 +75,7 @@
 - [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
 - [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
 - [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
+- [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)
 
 ###### Статьи на Medium
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
