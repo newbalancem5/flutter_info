@@ -79,6 +79,7 @@
 - [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)
 - [В CodePen добавлена поддержка Flutter](https://habr.com/ru/post/497526/)
 - [Flutter, Dart — локальная база в сотни раз более быстрая, чем SQLite или Shared Preferencies](https://habr.com/ru/post/498070/)
+- [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/)
 
 ###### Статьи на Medium
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
@@ -100,7 +101,6 @@
 - [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)   [ссылка2](https://teleg.run/flutterdevpodcast)
 - [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)   [ссылка2](https://teleg.run/flutterdevpodcast_news)
 - [It challenge](https://t.me/It_challenge)   [ссылка2](https://teleg.run/It_challenge)
-- [Flutter resources](https://t.me/flutter_resources)   [ссылка2](https://teleg.run/flutter_resources)
 - [Flutter Mobile Dev | Skill-Branch](https://t.me/Flutter_Mobile_Dev)   [ссылка2](https://teleg.run/Flutter_Mobile_Dev)
 - [Flutter Russia Events](https://t.me/FlutterRussia) [ссылка2](https://teleg.run/FlutterRussia)
 - [Flutter Architecture](https://t.me/flutter_architecture) [ссылка2](https://teleg.run/flutter_architecture)
