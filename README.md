@@ -83,6 +83,8 @@
 - [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/)
 - [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)
 - [Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/)
+- [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)
+- [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)
 
 ###### Статьи на Medium
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
