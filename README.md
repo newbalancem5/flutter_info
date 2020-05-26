@@ -42,11 +42,11 @@
 
 
 ### Видео посвященные Flutter
-[comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
-[Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
-[Уроки Flutter на русском](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
-[Flutter. Обзор фреймворка. Пишем кроссплатформенное приложение - калькулятор.](https://youtu.be/M6bHn2BYGVQ)
-[Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
+- [comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
+- [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
+- [Уроки Flutter на русском](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
+- [Flutter. Обзор фреймворка. Пишем кроссплатформенное приложение - калькулятор.](https://youtu.be/M6bHn2BYGVQ)
+- [Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
 
 ### Статьи ###
 
