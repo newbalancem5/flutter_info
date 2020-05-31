@@ -116,6 +116,9 @@
 [Dart Jobs](https://t.me/dartlang_jobs)
 
 
+### Twitter
+[Flutter For Dev](https://twitter.com/FlutterForDev)
+
 
 ### Сайты с информацией про Flutter
 - [Flutter.su](https://flutter.su/)
