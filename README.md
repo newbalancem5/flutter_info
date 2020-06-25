@@ -39,7 +39,8 @@
 * [Евгений Кот, Wrike — Flutter platform channels: мосты дружбы](https://youtu.be/UGyIE-VSCFo?t=643)
 * [Александр Денисов, EPAM — «Flutter. Bloc или Redux?»](https://youtu.be/UGyIE-VSCFo?t=5148)
 
-
+###### Mobius 2020 Piter
+[Александр Денисов — Flutter State Management Wars](https://youtu.be/E9pSpTmmcNA)
 
 ### Видео посвященные Flutter
 - [comerc #кодеротбога](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
