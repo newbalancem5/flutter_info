@@ -5,6 +5,9 @@
 
 ### Записи митапов ###
 
+###### Flutter Day Russia
+[Flutter Day Russia](https://youtu.be/qYzydKidbDQ)
+
 ###### DartUP 2019
 [ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAH4U-_eGzaO_H6IvuJdLKD)
 * [Majid Hajian – Strategic Domain Driven Design for Improving Flutter architecture](https://youtu.be/mdBUCOVP6IM)
