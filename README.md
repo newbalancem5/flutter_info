@@ -104,6 +104,7 @@
 - [Soundcloud](https://youtu.be/aV8Xz-T86qk) 
 - [ApplePodcast](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853)
 - [Spotify](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=p-SDBoyNQgSi8ntfV__VEg)
+- [Y.music](https://music.yandex.ru/album/11609672)
 
 ### Каналы Telegram ###
 - [Dart & Flutter по-русски](https://t.me/rudart)   [ссылка2](https://teleg.run/rudart)
