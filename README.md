@@ -45,6 +45,9 @@
 ###### Mobius 2020 Piter
 [Александр Денисов — Flutter State Management Wars](https://youtu.be/E9pSpTmmcNA)
 
+###### OTUS
+[Bloc архитектура во Flutter](https://youtu.be/KeW1spFd35w)
+
 ### Видео посвященные Flutter
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 - [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
