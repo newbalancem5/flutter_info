@@ -47,6 +47,7 @@
 
 ###### OTUS
 [Bloc архитектура во Flutter](https://youtu.be/KeW1spFd35w)
+[Анимация во Flutter. Что и как можно анимировать во Flutter?](https://youtu.be/xiO1yZRc6EM)
 
 ### Видео посвященные Flutter
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
