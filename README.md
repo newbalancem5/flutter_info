@@ -49,6 +49,9 @@
 [Bloc архитектура во Flutter](https://youtu.be/KeW1spFd35w)
 [Анимация во Flutter. Что и как можно анимировать во Flutter?](https://youtu.be/xiO1yZRc6EM)
 
+###### Митап разработчиков Лига Ставок х Яндекс
+[Митап разработчиков Лига Ставок х Яндекс](https://youtu.be/gvk7dx_s0vc)
+
 ### Видео посвященные Flutter
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 - [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
