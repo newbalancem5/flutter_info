@@ -99,6 +99,7 @@
 - [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)
 - [Используем бесплатные возможности Github Actions для CI/CD на Flutter-проекте](https://habr.com/ru/company/surfstudio/blog/520506/)
 - [Flutter.dev: Простое управление состоянием приложения](https://habr.com/ru/company/otus/blog/518156/)
+- [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)
 
 ###### Статьи на Medium
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
