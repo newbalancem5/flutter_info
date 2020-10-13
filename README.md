@@ -102,6 +102,7 @@
 - [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/)
 - [Flutter.dev: Continuous delivery с Flutter](https://habr.com/ru/company/otus/blog/520230/)
 - [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/)
+
 ###### Статьи на Medium
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3)
 
