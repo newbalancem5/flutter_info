@@ -47,6 +47,7 @@
 
 ###### OTUS
 [Bloc архитектура во Flutter](https://youtu.be/KeW1spFd35w)
+
 [Анимация во Flutter. Что и как можно анимировать во Flutter?](https://youtu.be/xiO1yZRc6EM)
 
 ###### Митап разработчиков Лига Ставок х Яндекс
