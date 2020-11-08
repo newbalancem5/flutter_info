@@ -133,8 +133,8 @@
 - [Oh, my Flutter](https://t.me/ohmyflutter)
 
 ###### Каналы с вакансиями
--[Dart Jobs](https://t.me/dartlang_jobs)
--[Art Flutter Vacancies](https://t.me/fluttervacancies)
+- [Dart Jobs](https://t.me/dartlang_jobs)
+- [Art Flutter Vacancies](https://t.me/fluttervacancies)
 
 
 ### Twitter
