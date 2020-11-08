@@ -134,7 +134,6 @@
 
 ###### Каналы с вакансиями
 [Dart Jobs](https://t.me/dartlang_jobs)
-
 [Art Flutter Vacancies](https://t.me/fluttervacancies)
 
 
