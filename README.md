@@ -3,13 +3,37 @@
 
 ![FlutterInfo](/assets/logo.png)
 
-### Записи митапов ###
+## Содержание
+- [Записи митапов](#meetups)
+  * [Flutter Day Russia](#flutter_day_russia)
+  * [DartUP 2019](#dartup-2019)
+  * [Ozon Meetup 2019](#ozon-2019)
+  * [404fest](#404fest)
+  * [iTechMeetup Grodno #4](#itechmeetup-grodno-4)
+  * [GDG Meetup Multiplatform](#gdg-meetup-multiplatform)
+  * [Mobius 2020 Piter](#mobius-2020-piter)
+  * [OTUS](#otus)
+  * [Митап разработчиков Лига Ставок х Яндекс](#liga_stavok)
+- [Видео посвященные Flutter](#video)
+- [Статьи](#articles)
+  * [[По докам] Flutter](#for_docs)
+  * [Серия статей про архитектуру Futter](#arch)
+  * [Статьи на Habr](#habr)
+  * [Статьи на Medium](#medium)
+  * [Другие порталы](#other)
+- [Подкасты](#podcast)
+- [Каналы Telegram](#telegram)
+- [Twitter](#twitter)
+- [Сайты с информацией про Flutter](#site)
+- [Документация](#docs)
+  
+<a name="meetups"><h3>Записи митапов</h3></a>
 
-###### Flutter Day Russia
+<a name="flutter_day_russia"><h4>Flutter Day Russia</h4></a>
 [Flutter Day Russia](https://youtu.be/qYzydKidbDQ) - запись от 25 июня 2020г. Евгений Кот, Александр Денисов, Евгений Сатуров и Звиад Кардава 
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
 
-###### DartUP 2019
+<a name="dartup-2019"><h4>DartUP 2019</h4></a>
 [ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAH4U-_eGzaO_H6IvuJdLKD)
 * [Majid Hajian – Strategic Domain Driven Design for Improving Flutter architecture](https://youtu.be/mdBUCOVP6IM)
 * [Алексей Золотых – About zones in Dart](https://youtu.be/QIEhkvYRVNg)
@@ -26,38 +50,38 @@
 * [Павел Герасимов, Wrike – Что будет, если выбрать Dart для диссертации](https://youtu.be/viz29imnFlc)
 * [Максим Гребенщиков – Dart puzzlers 3: Last Sith](https://youtu.be/aV8Xz-T86qk)
 
-###### Ozon Meetup 2019
+<a name="ozon-2019"><h4>Ozon Meetup 2019</h4></a>
 [Весь Митап](https://www.youtube.com/watch?v=_KMgVJ0mOmw)
 * [Flutter Interact онлайн трансляция](https://www.youtube.com/watch?v=O883nCgz7wk)
 * [Игорь Кравченко, "Как я изучал Flutter или meows.app с 0 до прода"](https://youtu.be/97IPmkXL2Sc)
 * [Юлия Григорьева, "Опыт написания Plugin Package для мобильных платформ"](https://youtu.be/Pmxv-OZH0IU)
 
-###### 404fest
+<a name="404fest"><h4>404fest</h4></a>
 [Евгений Кот — Flutter против мобильной Инквизиции](https://youtu.be/EazZVeXSqGQ) - Запись от 13 мая 2020г. Евгений Кот рассказывает о том
 что разработка на Flutter не хуже, а иногда даже и лучше, чем нативная разработка.
 
-###### iTechMeetup Grodno #4
+<a name="itechmeetup-grodno-4"><h4>iTechMeetup Grodno #4</h4></a>
 [Александр Терешков - Flutter. Год после релиза](https://youtu.be/zMcME7mAB50) - Запись от 12 декабря 2019г. Александр рассказывает о Flutter
 и как в нем все устроено.
 
-###### GDG Meetup Multiplatform
+<a name="gdg-meetup-multiplatform"><h4>GDG Meetup Multiplatform</h4></a>
 [Полная запись](https://youtu.be/UGyIE-VSCFo)
 * [Евгений Кот, Wrike — Flutter platform channels: мосты дружбы](https://youtu.be/UGyIE-VSCFo?t=643)
 * [Александр Денисов, EPAM — «Flutter. Bloc или Redux?»](https://youtu.be/UGyIE-VSCFo?t=5148)
 
-###### Mobius 2020 Piter
+<a name="mobius-2020-piter"><h4>404fest</h4></a>Mobius 2020 Piter</h4></a>
 [Александр Денисов — Flutter State Management Wars](https://youtu.be/E9pSpTmmcNA)
 
-###### OTUS
+<a name="otus"><h4>OTUS</h4></a>
 [Bloc архитектура во Flutter](https://youtu.be/KeW1spFd35w)
 
 [Анимация во Flutter. Что и как можно анимировать во Flutter?](https://youtu.be/xiO1yZRc6EM) - Андрей Смироно рассказывает о том,
 что такое анимация, как она устроена во Flutter, разбирает различные кейсы ее использования. Дата видео - 21.09.2020.
 
-###### Митап разработчиков Лига Ставок х Яндекс
+<a name="liga_stavok"><h4>Митап разработчиков Лига Ставок х Яндекс</h4></a>
 [Митап разработчиков Лига Ставок х Яндекс](https://youtu.be/gvk7dx_s0vc)
 
-### Видео посвященные Flutter
+<a name="video"><h3>Видео посвященные Flutter</h3></a>
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 - [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
 - [Уроки Flutter на русском](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
@@ -65,16 +89,16 @@
 - [Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
 - [Epam Webinar. Flutter: Александр Денисов, Evolution of State Management](https://youtu.be/Vg9gVE62bbg)
 
-### Статьи ###
+<a name="articles"><h3>Статьи</h3></a>
 
-###### [По докам] Flutter
-* [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/)
-* [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/)
-* [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/)
-* [Flutter. Часть 4. Для Web-разработчиков](https://habr.com/ru/company/funcorp/blog/486822/)
-* [Flutter. Часть 5. Для Xamarin.Forms-разработчиков](https://habr.com/ru/company/funcorp/blog/493518/)
+<a name="for_docs"><h4>[По докам] Flutter</h4></a>
+* [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Android разработчиков решивших перейти на Flutter
+* [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/) - адаптированный перевод раздела официальной документации. Отевты на вопросы iOS разработчиков решивших перейти на Flutter
+* [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/) - адаптированный перевод раздела официальной документации. Отевты на вопросы React Native разработчиков решивших перейти на Flutter
+* [Flutter. Часть 4. Для Web-разработчиков](https://habr.com/ru/company/funcorp/blog/486822/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Web разработчиков решивших перейти на Flutter
+* [Flutter. Часть 5. Для Xamarin.Forms-разработчиков](https://habr.com/ru/company/funcorp/blog/493518/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Xamarin разработчиков решивших перейти на Flutter
 
-###### Серия статей про архитектуру Futter
+<a name="arch"><h4>Серия статей про архитектуру Futter</h4></a>
 - [Введение](https://habr.com/ru/post/448776/)
 - [Основы Dart Streams](https://habr.com/ru/post/450950/)
 - [RxDart: магические трансформации потоков](https://habr.com/ru/post/451292/)
@@ -84,25 +108,25 @@
 - Аутентификация пользователя посредством RxVMS
   
 
-###### Статьи на Habr
-- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/)
-- [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
-- [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)
-- [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)
-- [Как работает Flutter](https://habr.com/ru/post/476018/)
-- [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/)
-- [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/)
-- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
-- [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
-- [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
-- [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)
-- [В CodePen добавлена поддержка Flutter](https://habr.com/ru/post/497526/)
-- [Flutter, Dart — локальная база в сотни раз более быстрая, чем SQLite или Shared Preferencies](https://habr.com/ru/post/498070/)
-- [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/)
-- [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)
-- [Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/)
-- [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)
-- [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)
+<a name="habr"><h4>Статьи на Habr</h4></a>
+- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/ - о том как писать интеграционные тесты для приложений на Flutter.
+- [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/) - статья времен появления Flutter рассказывающая о новом фреймверке.
+- [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/) -  пример написания приложения с паттерном BLoC.
+- [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/) - пример написания приложения с BLoC и Provider.
+- [Как работает Flutter](https://habr.com/ru/post/476018/) - погружение во внутренности Flutter, что и как устроено под капотом.
+- [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/) - что такое mixin и зачем ни нужны?
+- [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/) - открытие сторонних приложений из Flutter по специально сформированным ссылкам.
+- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/) - пример написания приложение с использованием BLoC.
+- [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/) - описание метеостанции на базе Arduino.
+- [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/) - сравнение React Native и Flutter с примерами кода.
+- [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/) - (перевод) статья для новичков повествующая об Event Loop и Futures
+- [В CodePen добавлена поддержка Flutter](https://habr.com/ru/post/497526/) - об использование Flutter в CodePen
+- [Flutter, Dart — локальная база в сотни раз более быстрая, чем SQLite или Shared Preferencies](https://habr.com/ru/post/498070/) - о Hive - noSQL БД для Dart и Flutter.
+- [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/) - об изменениях в релизном цикле Flutter и немного статистики.
+- [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/) - о том как правильно "весрстать" на Flutter
+- [Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/) - Погружение во внутренности Flutter. Разбираемся из чего состоит фреймворк.
+- [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/) - в кратце описываются паттерны StatefullWidget, InheritedWidget и BLoC. Более подробно разобран паттерн Provider.
+- [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/) - советы по оптимизации ваший Flutter приложений
 - [Используем бесплатные возможности Github Actions для CI/CD на Flutter-проекте](https://habr.com/ru/company/surfstudio/blog/520506/) - CI/CD во Flutter с помощью GitHub Actions.
 - [Flutter.dev: Простое управление состоянием приложения](https://habr.com/ru/company/otus/blog/518156/) - (перевод) о паттерне Provider. 
 - [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/) - (перевод) о паттерные InheritedWidget - что это, зачем нужно и как использовать.
@@ -110,15 +134,15 @@
 - [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/) - применение паттерна чистой архитектуры во Flutter.
 - [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/) - взгляд на Flutter со стороны разработчика на других платформах.
 
-###### Статьи на Medium
+<a name="medium"><h4>Статьи на Medium</h4></a>
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3) - Введение в паттерн BLoC для новичков. Аавтор подробно описал что это, 
 как и где использовать и поделился некоторыми хитростями, которые обычно остаются за кадром.
 
-###### Другие порталы
+<a name="other"><h4>Другие порталы</h4></a>
 - [Flutter - Firebase Realtime действия с базой данных](https://iswift.ru/articles/ru/flutter-firebase-realtime-database-crud-operation-ru)
 
 
-### Подкасты ###
+<a name="podcast"><h3>Подкасты</h3></a>
 
 ###### FlutterDevPodcast
 - [Soundcloud](https://soundcloud.com/flutterdevpodcast) 
@@ -126,7 +150,7 @@
 - [Spotify](https://open.spotify.com/show/5qc1VFD4pkJlUYZBVTOFCI?si=p-SDBoyNQgSi8ntfV__VEg)
 - [Y.music](https://music.yandex.ru/album/11609672)
 
-### Каналы Telegram ###
+<a name="telegram"><h3>Каналы Telegram</h3></a>
 - [Dart & Flutter по-русски](https://t.me/rudart)   [ссылка2](https://teleg.run/rudart)
 - [Flutter For Dev - новости, статьи, дизайн.](https://t.me/FlutterDevRu)   [ссылка2](https://teleg.run/FlutterDevRu)
 - [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)   [ссылка2](https://teleg.run/flutter_rus)
@@ -144,11 +168,12 @@
 - [Art Flutter Vacancies](https://t.me/fluttervacancies) - более специализированный канал с вакансиями для Flutter разработчиков
 
 
-### Twitter
+<a name="twitter"><h3>Twitter</h3></a>
 [Flutter For Dev](https://twitter.com/FlutterForDev) - твиттер автора репозитория.
 
 
-### Сайты с информацией про Flutter
+
+<a name="site"><h3>Сайты с информацией про Flutter</h3></a>
 - [Flutter.su](https://flutter.su/) - о Flutter на русском. Немного уроков, немного статей и новостей.
 - [Metanit](https://metanit.com/dart/flutter/1.1.php) - Это раздел сайта посвященный Flutter на русском. 
 Офрмленно в виде книги с уроками.
@@ -158,5 +183,5 @@
 - [FlutterFor.dev](https://flutterfor.dev/) - Собственно сайт автора этого репозитория.
 
 
-### Документации 
+<a name="docs"><h3>Документация<h3></a>
 - [BLoC](https://bloclibrary.dev/#/ru/) - Документация по одноименному пакету на русском.
