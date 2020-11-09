@@ -169,17 +169,18 @@
 
 
 <a name="twitter"><h3>Twitter</h3></a>
-[Flutter For Dev](https://twitter.com/FlutterForDev) - твиттер автора репозитория)
+[Flutter For Dev](https://twitter.com/FlutterForDev) - твиттер автора репозитория.
+
 
 
 <a name="site"><h3>Сайты с информацией про Flutter</h3></a>
 - [Flutter.su](https://flutter.su/) - о Flutter на русском. Немного уроков, немного статей и новостей.
-- [Metanit](https://metanit.com/dart/flutter/1.1.php) - Это расздел сайта посвященный Flutter на русском. 
+- [Metanit](https://metanit.com/dart/flutter/1.1.php) - Это раздел сайта посвященный Flutter на русском. 
 Офрмленно в виде книги с уроками.
 - [Dartflutter.ru](https://dartflutter.ru/) - Русскоязычный сайт посвященный Flutter. Оформлен в виде блога со статьями о 
 использовании различных фич и технологий. Например статья посвященныя изображениям во Flutter или статья посвященная кнопкам.
 - [iswift.ru](https://iswift.ru/) - На этом сайте естьдва раздела с уроками по Flutter, на русском и английском соответственно.
-- [FlutterFor.dev](https://flutterfor.dev/) - Собственно сайт автора этого репозитория)
+- [FlutterFor.dev](https://flutterfor.dev/) - Собственно сайт автора этого репозитория.
 
 
 <a name="docs"><h3>Документация<h3></a>
