@@ -68,11 +68,11 @@
 ### Статьи ###
 
 ###### [По докам] Flutter
-* [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/)
-* [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/)
-* [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/)
-* [Flutter. Часть 4. Для Web-разработчиков](https://habr.com/ru/company/funcorp/blog/486822/)
-* [Flutter. Часть 5. Для Xamarin.Forms-разработчиков](https://habr.com/ru/company/funcorp/blog/493518/)
+* [Часть 1. Для Android разработчиков](https://habr.com/ru/company/funcorp/blog/442432/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Android разработчиков решивших перейти на Flutter
+* [Flutter. Часть 2. Для iOS-разработчиков](https://habr.com/ru/company/funcorp/blog/477182/) - адаптированный перевод раздела официальной документации. Отевты на вопросы iOS разработчиков решивших перейти на Flutter
+* [Flutter. Часть 3. Для разработчиков React Native](https://habr.com/ru/company/funcorp/blog/484284/) - адаптированный перевод раздела официальной документации. Отевты на вопросы React Native разработчиков решивших перейти на Flutter
+* [Flutter. Часть 4. Для Web-разработчиков](https://habr.com/ru/company/funcorp/blog/486822/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Web разработчиков решивших перейти на Flutter
+* [Flutter. Часть 5. Для Xamarin.Forms-разработчиков](https://habr.com/ru/company/funcorp/blog/493518/) - адаптированный перевод раздела официальной документации. Отевты на вопросы Xamarin разработчиков решивших перейти на Flutter
 
 ###### Серия статей про архитектуру Futter
 - [Введение](https://habr.com/ru/post/448776/)
@@ -85,24 +85,24 @@
   
 
 ###### Статьи на Habr
-- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/)
-- [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/)
-- [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/)
-- [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/)
-- [Как работает Flutter](https://habr.com/ru/post/476018/)
-- [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/)
-- [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/)
-- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/)  
-- [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/)
-- [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/)
-- [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/)
-- [В CodePen добавлена поддержка Flutter](https://habr.com/ru/post/497526/)
-- [Flutter, Dart — локальная база в сотни раз более быстрая, чем SQLite или Shared Preferencies](https://habr.com/ru/post/498070/)
-- [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/)
-- [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/)
-- [Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/)
-- [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/)
-- [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/)
+- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/ - о том как писать интеграционные тесты для приложений на Flutter.
+- [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/) - статья времен появления Flutter рассказывающая о новом фреймверке.
+- [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/) -  пример написания приложения с паттерном BLoC.
+- [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/) - пример написания приложения с BLoC и Provider.
+- [Как работает Flutter](https://habr.com/ru/post/476018/) - погружение во внутренности Flutter, что и как устроено под капотом.
+- [Использование примесей (mixins) в Dart](https://habr.com/ru/post/484206/) - что такое mixin и зачем ни нужны?
+- [Flutter в примерах. Deep Links в приложениях на Flutter](https://habr.com/ru/company/epam_systems/blog/461239/) - открытие сторонних приложений из Flutter по специально сформированным ссылкам.
+- [Flutter. BlOC, Provider, async – архитектура «по полочкам»](https://habr.com/ru/post/489512/) - пример написания приложение с использованием BLoC.
+- [Flutter + arduino nano 33 BLE sense = очень простой BLE sensor](https://habr.com/ru/post/492404/) - описание метеостанции на базе Arduino.
+- [8 плюсов Flutter по сравнению с React Native](https://habr.com/ru/post/491832/) - сравнение React Native и Flutter с примерами кода.
+- [Flutter. Асинхронность и параллельность](https://habr.com/ru/post/497278/) - (перевод) статья для новичков повествующая об Event Loop и Futures
+- [В CodePen добавлена поддержка Flutter](https://habr.com/ru/post/497526/) - об использование Flutter в CodePen
+- [Flutter, Dart — локальная база в сотни раз более быстрая, чем SQLite или Shared Preferencies](https://habr.com/ru/post/498070/) - о Hive - noSQL БД для Dart и Flutter.
+- [Flutter. Весеннее обновление 2020](https://habr.com/ru/company/surfstudio/blog/499630/) - об изменениях в релизном цикле Flutter и немного статистики.
+- [Правила компоновки во Flutter, которые должен знать каждый](https://habr.com/ru/post/500210/) - о том как правильно "весрстать" на Flutter
+- [Flutter под капотом](https://habr.com/ru/company/surfstudio/blog/501862/) - Погружение во внутренности Flutter. Разбираемся из чего состоит фреймворк.
+- [Подробно о пакете Provider для Flutter](https://habr.com/ru/company/piter/blog/503074/) - в кратце описываются паттерны StatefullWidget, InheritedWidget и BLoC. Более подробно разобран паттерн Provider.
+- [Как улучшить производительность вашего Flutter приложения](https://habr.com/ru/post/502882/) - советы по оптимизации ваший Flutter приложений
 - [Используем бесплатные возможности Github Actions для CI/CD на Flutter-проекте](https://habr.com/ru/company/surfstudio/blog/520506/) - CI/CD во Flutter с помощью GitHub Actions.
 - [Flutter.dev: Простое управление состоянием приложения](https://habr.com/ru/company/otus/blog/518156/) - (перевод) о паттерне Provider. 
 - [InheritedWidget во Flutter](https://habr.com/ru/company/otus/blog/521032/) - (перевод) о паттерные InheritedWidget - что это, зачем нужно и как использовать.
