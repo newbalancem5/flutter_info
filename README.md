@@ -63,6 +63,7 @@
 - [Уроки Flutter на русском](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
 - [Flutter. Обзор фреймворка. Пишем кроссплатформенное приложение - калькулятор.](https://youtu.be/M6bHn2BYGVQ)
 - [Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
+- [Epam Webinar. Flutter: Александр Денисов, Evolution of State Management](https://youtu.be/Vg9gVE62bbg)
 
 ### Статьи ###
 
