@@ -3,13 +3,23 @@
 
 ![FlutterInfo](/assets/logo.png)
 
-### Записи митапов ###
+## Содержание
+[Записи митапов](#meetups)
+ * [Flutter Day Russia](#flutter_day_russia)
+ * [DartUP 2019](#dartup-2019)
+ * [Ozon Meetup 2019](#ozon-2019)
+ * [404fest](#404fest)
+ * [iTechMeetup Grodno #4](#itechmeetup-grodno-4)
+ * [GDG Meetup Multiplatform](#gdg-meetup-multiplatform)
+ * [Mobius 2020 Piter](#mobius-2020-piter)
+ 
+<a name="meetups"><h3>Записи митапов</h3></a>
 
-###### Flutter Day Russia
+<a name="flutter_day_russia"><h4>Flutter Day Russia</h4></a>
 [Flutter Day Russia](https://youtu.be/qYzydKidbDQ) - запись от 25 июня 2020г. Евгений Кот, Александр Денисов, Евгений Сатуров и Звиад Кардава 
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
 
-###### DartUP 2019
+<a name="dartup-2019"><h4>DartUP 2019</h4></a>
 [ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAH4U-_eGzaO_H6IvuJdLKD)
 * [Majid Hajian – Strategic Domain Driven Design for Improving Flutter architecture](https://youtu.be/mdBUCOVP6IM)
 * [Алексей Золотых – About zones in Dart](https://youtu.be/QIEhkvYRVNg)
@@ -26,26 +36,26 @@
 * [Павел Герасимов, Wrike – Что будет, если выбрать Dart для диссертации](https://youtu.be/viz29imnFlc)
 * [Максим Гребенщиков – Dart puzzlers 3: Last Sith](https://youtu.be/aV8Xz-T86qk)
 
-###### Ozon Meetup 2019
+<a name="ozon-2019"><h4>Ozon Meetup 2019</h4></a>
 [Весь Митап](https://www.youtube.com/watch?v=_KMgVJ0mOmw)
 * [Flutter Interact онлайн трансляция](https://www.youtube.com/watch?v=O883nCgz7wk)
 * [Игорь Кравченко, "Как я изучал Flutter или meows.app с 0 до прода"](https://youtu.be/97IPmkXL2Sc)
 * [Юлия Григорьева, "Опыт написания Plugin Package для мобильных платформ"](https://youtu.be/Pmxv-OZH0IU)
 
-###### 404fest
+<a name="404fest"><h4>404fest</h4></a>
 [Евгений Кот — Flutter против мобильной Инквизиции](https://youtu.be/EazZVeXSqGQ) - Запись от 13 мая 2020г. Евгений Кот рассказывает о том
 что разработка на Flutter не хуже, а иногда даже и лучше, чем нативная разработка.
 
-###### iTechMeetup Grodno #4
+<a name="itechmeetup-grodno-4"><h4>iTechMeetup Grodno #4</h4></a>
 [Александр Терешков - Flutter. Год после релиза](https://youtu.be/zMcME7mAB50) - Запись от 12 декабря 2019г. Александр рассказывает о Flutter
 и как в нем все устроено.
 
-###### GDG Meetup Multiplatform
+<a name="gdg-meetup-multiplatform"><h4>GDG Meetup Multiplatform</h4></a>
 [Полная запись](https://youtu.be/UGyIE-VSCFo)
 * [Евгений Кот, Wrike — Flutter platform channels: мосты дружбы](https://youtu.be/UGyIE-VSCFo?t=643)
 * [Александр Денисов, EPAM — «Flutter. Bloc или Redux?»](https://youtu.be/UGyIE-VSCFo?t=5148)
 
-###### Mobius 2020 Piter
+<a name="mobius-2020-piter"><h4>404fest</h4></a>Mobius 2020 Piter</h4></a>
 [Александр Денисов — Flutter State Management Wars](https://youtu.be/E9pSpTmmcNA)
 
 ###### OTUS
