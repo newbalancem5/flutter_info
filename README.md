@@ -133,6 +133,7 @@
 - [Flutter.dev: Continuous delivery с Flutter](https://habr.com/ru/company/otus/blog/520230/) - (перевод) о том как настроить CI/CD для Flutter.
 - [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/) - применение паттерна чистой архитектуры во Flutter.
 - [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/) - взгляд на Flutter со стороны разработчика на других платформах.
+- [Подборка полезной информации для начинающих во Flutter](https://habr.com/ru/post/527112/) - подборка курсов, youtube каналов, подкастов, полезных ссылок, telegram каналов и чатов по Flutter.
 
 <a name="medium"><h4>Статьи на Medium</h4></a>
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3) - Введение в паттерн BLoC для новичков. Аавтор подробно описал что это, 
