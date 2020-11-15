@@ -109,7 +109,7 @@
   
 
 <a name="habr"><h4>Статьи на Habr</h4></a>
-- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/ - о том как писать интеграционные тесты для приложений на Flutter.
+- [Интеграционные тесты на Flutter — это просто](https://habr.com/ru/post/483468/) - о том как писать интеграционные тесты для приложений на Flutter.
 - [Flutter — новый взгляд на кроссплатформенную разработку](https://habr.com/ru/company/google/blog/426701/) - статья времен появления Flutter рассказывающая о новом фреймверке.
 - [BLoC паттерн на простом примере](https://habr.com/ru/post/475404/) -  пример написания приложения с паттерном BLoC.
 - [Flutter BloC паттерн + Provider + тесты + запоминаем состояние](https://habr.com/ru/post/485002/) - пример написания приложения с BLoC и Provider.
@@ -133,6 +133,7 @@
 - [Flutter.dev: Continuous delivery с Flutter](https://habr.com/ru/company/otus/blog/520230/) - (перевод) о том как настроить CI/CD для Flutter.
 - [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/) - применение паттерна чистой архитектуры во Flutter.
 - [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/) - взгляд на Flutter со стороны разработчика на других платформах.
+- [Подборка полезной информации для начинающих во Flutter](https://habr.com/ru/post/527112/) - подборка курсов, youtube каналов, подкастов, полезных ссылок, telegram каналов и чатов по Flutter.
 
 <a name="medium"><h4>Статьи на Medium</h4></a>
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3) - Введение в паттерн BLoC для новичков. Аавтор подробно описал что это, 
