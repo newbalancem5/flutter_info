@@ -163,6 +163,7 @@
 - [Flutter Architecture](https://t.me/flutter_architecture) [ссылка2](https://teleg.run/flutter_architecture)
 - [Flutter Books](https://t.me/flutterbooks) [ссылка2](https://teleg.run/flutterbooks)
 - [Oh, my Flutter](https://t.me/ohmyflutter)
+- [DART_SIDE](https://t.me/dartside)
 
 ###### Каналы с вакансиями
 - [Dart Jobs](https://t.me/dartlang_jobs) - телеграм канал на котором публикуются вакансии для разработчиков на Dart
