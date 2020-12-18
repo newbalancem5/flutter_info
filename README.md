@@ -36,17 +36,17 @@
 
 <a name="dartup-2020"><h4>DartUP 2020</h4></a>
 [ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTCH6RNIr7PyLrEZRlP6uKhn)
-  *[Александр Юрковский, Юрий Дорофеев, Optimist – Запускаем Flutter внутри VK Mini Apps](https://youtu.be/OMZdeMIO7Oo)
-  *[Евгений Сатуров, Surf – Gear up, ускоряем Flutter-разработку](https://youtu.be/Qs-uixwYR28)
-  *[Александр Денисов, EPAM – Navigator 2.0 Полная декларативность](https://youtu.be/PsEk0aBosmw)
-  *[Света Кривошеева, Effective – Я не художник, я только программирую](https://youtu.be/rLtTdz8Hkzg)
-  *[Павел Мартынов, QuantumArt – Особенности дизайна и разработки Flutter приложений для AR устройств](https://youtu.be/H3junRDyNII)
-  *[Круглый стол: Flutter для бизнеса](https://youtu.be/nvmYXmKtrRw)
-  *[Андрей Скалкин, Александр Парамонов, Datagrok – Швейцарский армейский нож для данных на Dart](https://youtu.be/lDcTVlfJoFg)
-  *[Владимир Иванов, EPAM – 3F: Flutter, Figma и Feedback Loops](https://youtu.be/qulvMyXlI3M)
-  *[Алиса Цветкова, HIQ – Карты на Flutter без костылей](https://youtu.be/-BxaS223zl0)
-  *[Алексей Шаров, Wrike – Нейронные сети и Dart: попробуем?](https://youtu.be/EV9IX_4zjlc)
-  *[Вячеслав Егоров, Google – 10 years of Dart](https://youtu.be/INMlesYpRA0)
+  * [Александр Юрковский, Юрий Дорофеев, Optimist – Запускаем Flutter внутри VK Mini Apps](https://youtu.be/OMZdeMIO7Oo)
+  * [Евгений Сатуров, Surf – Gear up, ускоряем Flutter-разработку](https://youtu.be/Qs-uixwYR28)
+  * [Александр Денисов, EPAM – Navigator 2.0 Полная декларативность](https://youtu.be/PsEk0aBosmw)
+  * [Света Кривошеева, Effective – Я не художник, я только программирую](https://youtu.be/rLtTdz8Hkzg)
+  * [Павел Мартынов, QuantumArt – Особенности дизайна и разработки Flutter приложений для AR устройств](https://youtu.be/H3junRDyNII)
+  * [Круглый стол: Flutter для бизнеса](https://youtu.be/nvmYXmKtrRw)
+  * [Андрей Скалкин, Александр Парамонов, Datagrok – Швейцарский армейский нож для данных на Dart](https://youtu.be/lDcTVlfJoFg)
+  * [Владимир Иванов, EPAM – 3F: Flutter, Figma и Feedback Loops](https://youtu.be/qulvMyXlI3M)
+  * [Алиса Цветкова, HIQ – Карты на Flutter без костылей](https://youtu.be/-BxaS223zl0)
+  * [Алексей Шаров, Wrike – Нейронные сети и Dart: попробуем?](https://youtu.be/EV9IX_4zjlc)
+  * [Вячеслав Егоров, Google – 10 years of Dart](https://youtu.be/INMlesYpRA0)
   
 
 <a name="dartup-2019"><h4>DartUP 2019</h4></a>
