@@ -6,6 +6,7 @@
 ## Содержание
 - [Записи митапов](#meetups)
   * [Flutter Day Russia](#flutter_day_russia)
+  * [DartUp 2020](#dartup-2020)
   * [DartUP 2019](#dartup-2019)
   * [Ozon Meetup 2019](#ozon-2019)
   * [404fest](#404fest)
@@ -33,9 +34,24 @@
 [Flutter Day Russia](https://youtu.be/qYzydKidbDQ) - запись от 25 июня 2020г. Евгений Кот, Александр Денисов, Евгений Сатуров и Звиад Кардава 
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
 
+<a name="dartup-2020"><h4>DartUP 2020</h4></a>
+[ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTCH6RNIr7PyLrEZRlP6uKhn)
+  *[Александр Юрковский, Юрий Дорофеев, Optimist – Запускаем Flutter внутри VK Mini Apps](https://youtu.be/OMZdeMIO7Oo)
+  *[Евгений Сатуров, Surf – Gear up, ускоряем Flutter-разработку](https://youtu.be/Qs-uixwYR28)
+  *[Александр Денисов, EPAM – Navigator 2.0 Полная декларативность](https://youtu.be/PsEk0aBosmw)
+  *[Света Кривошеева, Effective – Я не художник, я только программирую](https://youtu.be/rLtTdz8Hkzg)
+  *[Павел Мартынов, QuantumArt – Особенности дизайна и разработки Flutter приложений для AR устройств](https://youtu.be/H3junRDyNII)
+  *[Круглый стол: Flutter для бизнеса](https://youtu.be/nvmYXmKtrRw)
+  *[Андрей Скалкин, Александр Парамонов, Datagrok – Швейцарский армейский нож для данных на Dart](https://youtu.be/lDcTVlfJoFg)
+  *[Владимир Иванов, EPAM – 3F: Flutter, Figma и Feedback Loops](https://youtu.be/qulvMyXlI3M)
+  *[Алиса Цветкова, HIQ – Карты на Flutter без костылей](https://youtu.be/-BxaS223zl0)
+  *[Алексей Шаров, Wrike – Нейронные сети и Dart: попробуем?](https://youtu.be/EV9IX_4zjlc)
+  *[Вячеслав Егоров, Google – 10 years of Dart](https://youtu.be/INMlesYpRA0)
+  
+
 <a name="dartup-2019"><h4>DartUP 2019</h4></a>
 [ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLxcvsYzLfaTAH4U-_eGzaO_H6IvuJdLKD)
-* [Majid Hajian – Strategic Domain Driven Design for Improving Flutter architecture](https://youtu.be/mdBUCOVP6IM)
+<!-- * [Majid Hajian – Strategic Domain Driven Design for Improving Flutter architecture](https://youtu.be/mdBUCOVP6IM) -->
 * [Алексей Золотых – About zones in Dart](https://youtu.be/QIEhkvYRVNg)
 * [Артем Кобзарь – Препарируя Dart VM](https://youtu.be/JKvmwOuqVWI)
 * [Kevin Segaud – One codebase 6 platforms](https://youtu.be/wNwo0IFaINI)
@@ -82,6 +98,7 @@
 [Митап разработчиков Лига Ставок х Яндекс](https://youtu.be/gvk7dx_s0vc)
 
 <a name="video"><h3>Видео посвященные Flutter</h3></a>
+- [Введение в Business Logic Components (BLoC)](https://youtu.be/AV_4aVOKl-g)
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 - [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
 - [Уроки Flutter на русском](https://www.youtube.com/playlist?list=PL6lh8cTntlDiLlH_rHl5F0JOy_gRm_Wa4)
