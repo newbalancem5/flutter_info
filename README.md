@@ -98,6 +98,7 @@
 [Митап разработчиков Лига Ставок х Яндекс](https://youtu.be/gvk7dx_s0vc)
 
 <a name="video"><h3>Видео посвященные Flutter</h3></a>
+- [Flutter Engage Russia](https://youtu.be/ihI2723hiSw)
 - [Введение в Business Logic Components (BLoC)](https://youtu.be/AV_4aVOKl-g)
 - [Flutter в режиме live-code. Потому что прёт! Маркетплейс на GraphQL и Firebase.](https://www.youtube.com/playlist?list=PLMAOL6NXxmsgTUrZE4Y9xhIxzDA46X1lc)
 - [Flutter+Firestore Приложение](https://www.youtube.com/playlist?list=PLu_62Q68DvTpWKx289HnZq7_19e84vSpr)
