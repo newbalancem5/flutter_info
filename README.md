@@ -106,6 +106,7 @@
 - [Flutter. Обзор фреймворка. Пишем кроссплатформенное приложение - калькулятор.](https://youtu.be/M6bHn2BYGVQ)
 - [Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
 - [Epam Webinar. Flutter: Александр Денисов, Evolution of State Management](https://youtu.be/Vg9gVE62bbg)
+- [Learn Dart & Flutter](https://www.youtube.com/channel/UCZz15W_tnfs4DxVsWCrTHJw/videos) - Уроки посвященные Dart и Flutter с глубоким погружением
 
 <a name="articles"><h3>Статьи</h3></a>
 
@@ -152,6 +153,8 @@
 - [Flutter + чистая архитектура: разбираем на примере](https://habr.com/ru/post/522640/) - применение паттерна чистой архитектуры во Flutter.
 - [Flutter для React/React Native разработчика](https://habr.com/ru/post/526362/) - взгляд на Flutter со стороны разработчика на других платформах.
 - [Подборка полезной информации для начинающих во Flutter](https://habr.com/ru/post/527112/) - подборка курсов, youtube каналов, подкастов, полезных ссылок, telegram каналов и чатов по Flutter.
+- [Как написать и опубликовать идеальный пакет для Flutter](https://habr.com/ru/post/548594/) - собственно все сказано в заголовке. ХауТу о том как опубликовать свой пакет.
+- [Dart на сервере](https://habr.com/ru/post/550916/) - Dia: koa-подобный легковесный http сервер на Dart
 
 <a name="medium"><h4>Статьи на Medium</h4></a>
 - [BLoC, с чего начать](https://link.medium.com/FuJnq9Crs3) - Введение в паттерн BLoC для новичков. Аавтор подробно описал что это, 
