@@ -30,6 +30,11 @@
   
 <a name="meetups"><h3>Записи митапов</h3></a>
 
+<a name="women_techmakers"><h4>Women Techmakers</h4></a>
+* [Алиса Цветкова: Flutter как новая нефть](https://youtu.be/9DOD5Vgw8NY)
+* [Света Кривошеева: Хороший слуга IDE. На примере vscode для flutter](https://youtu.be/JPY41GoH5sU)
+
+
 <a name="flutter_day_russia"><h4>Flutter Day Russia</h4></a>
 [Flutter Day Russia](https://youtu.be/qYzydKidbDQ) - запись от 25 июня 2020г. Евгений Кот, Александр Денисов, Евгений Сатуров и Звиад Кардава 
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
