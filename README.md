@@ -5,6 +5,7 @@
 
 ## Содержание
 - [Записи митапов](#meetups)
+  * [Women Techmakers](#women_techmakers)
   * [Flutter Day Russia](#flutter_day_russia)
   * [DartUp 2020](#dartup-2020)
   * [DartUP 2019](#dartup-2019)
