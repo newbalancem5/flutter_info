@@ -113,6 +113,7 @@
 - [Flutter онлайн-воркшоп Surf](https://youtu.be/Kpbkz6rU9_E)
 - [Epam Webinar. Flutter: Александр Денисов, Evolution of State Management](https://youtu.be/Vg9gVE62bbg)
 - [Learn Dart & Flutter](https://www.youtube.com/channel/UCZz15W_tnfs4DxVsWCrTHJw/videos) - Уроки посвященные Dart и Flutter с глубоким погружением
+- [codeandartmain](https://www.youtube.com/c/codeandartmain) - На канале автор рассказывает про основы Dart, Flutter, а также про создание FLutter приложений.
 
 <a name="articles"><h3>Статьи</h3></a>
 
