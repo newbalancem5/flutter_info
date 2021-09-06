@@ -28,6 +28,7 @@
 - [Twitter](#twitter)
 - [Сайты с информацией про Flutter](#site)
 - [Документация](#docs)
+- [Книги](#books)
   
 <a name="meetups"><h3>Записи митапов</h3></a>
 
@@ -215,3 +216,7 @@
 
 <a name="docs"><h3>Документация<h3></a>
 - [BLoC](https://bloclibrary.dev/#/ru/) - Документация по одноименному пакету на русском.
+
+
+<a name="books"><h3>Книги<h3></a>
+- [Основы Dart](https://habr.com/ru/post/564528) - Книга от Станислава Чернышева - "ОСНОВЫ DART".
