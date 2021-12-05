@@ -106,11 +106,11 @@
 [Митап разработчиков Лига Ставок х Яндекс](https://youtu.be/gvk7dx_s0vc)
 
 <a name="yandex_academy"><h4>Академия Яндекс</h4></a>
-[Dart и Flutter — зачем?! — Кольцов Сергей](https://youtu.be/_lAUEYoLZzc)
-[Деревья виджетов и не только. Билдеры: обновление интерфейса по требованию — Илья Вирник](https://youtu.be/njM5Ch5MfNI)
-[Списки. Анимации и рисование: от простого к сложному — Дмитрий Тараев, Александр Маренков](https://youtu.be/YqzUIGsAJQA)
-[Dart Event Loop — Илья Вирник](https://youtu.be/hjSBPicoXto)
-[Архитектуры и стейт-менеджмент во Flutter. Let the holy war begin — Сергей Кольцов](https://youtu.be/GB8A8hJhHcM)
+* [Dart и Flutter — зачем?! — Кольцов Сергей](https://youtu.be/_lAUEYoLZzc)
+* [Деревья виджетов и не только. Билдеры: обновление интерфейса по требованию — Илья Вирник](https://youtu.be/njM5Ch5MfNI)
+* [Списки. Анимации и рисование: от простого к сложному — Дмитрий Тараев, Александр Маренков](https://youtu.be/YqzUIGsAJQA)
+* [Dart Event Loop — Илья Вирник](https://youtu.be/hjSBPicoXto)
+* [Архитектуры и стейт-менеджмент во Flutter. Let the holy war begin — Сергей Кольцов](https://youtu.be/GB8A8hJhHcM)
 [Плейлист](https://youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)
 
 <a name="video"><h3>Видео посвященные Flutter</h3></a>
