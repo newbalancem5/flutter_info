@@ -111,7 +111,7 @@
 * [Списки. Анимации и рисование: от простого к сложному — Дмитрий Тараев, Александр Маренков](https://youtu.be/YqzUIGsAJQA)
 * [Dart Event Loop — Илья Вирник](https://youtu.be/hjSBPicoXto)
 * [Архитектуры и стейт-менеджмент во Flutter. Let the holy war begin — Сергей Кольцов](https://youtu.be/GB8A8hJhHcM)
-[Плейлист](https://youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)
+* [Плейлист](https://youtube.com/playlist?list=PLQC2_0cDcSKBB4F8y-V_lB2HiFYSWIgYW)
 
 <a name="video"><h3>Видео посвященные Flutter</h3></a>
 - [Flutter Engage Russia](https://youtu.be/ihI2723hiSw)
