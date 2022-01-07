@@ -7,6 +7,7 @@
 - [Записи митапов](#meetups)
   * [Women Techmakers](#women_techmakers)
   * [Flutter Day Russia](#flutter_day_russia)
+  * [DatrUp 2021](#dartup-2021)
   * [DartUp 2020](#dartup-2020)
   * [DartUP 2019](#dartup-2019)
   * [Ozon Meetup 2019](#ozon-2019)
@@ -41,6 +42,18 @@
 <a name="flutter_day_russia"><h4>Flutter Day Russia</h4></a>
 [Flutter Day Russia](https://youtu.be/qYzydKidbDQ) - запись от 25 июня 2020г. Евгений Кот, Александр Денисов, Евгений Сатуров и Звиад Кардава 
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
+
+<a name="dartup-2021"><h4>DartUP 2021</h4></a>
+[ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTBFHePQCdKmZM6MCqN7OsGE)
+* [Flutter. Все грани платформенных интеграций — Александр Денисов, EPAM](https://youtu.be/m0WBNkEl9zs)
+* [Системы обработки жестов и фокусов во Flutter — Света Кривошеева, Effective](https://youtu.be/-qG8ROClueo)
+* [Как посчитать ваш техдолг с помощью Dart Code Metrics — Дмитрий Круцких](https://youtu.be/0QfQkr_fsaU)
+* [Стелем мягкую соломку на жёсткий Flutter — Евгений Сатуров, Surf](https://youtu.be/8fRynb-fjWM)
+* [Концепция нового роутинга, Router, Navigator 2.0 — Михаил Матюнин, Ozon](https://youtu.be/Okelv39OEgs)
+* [3 года с Flutter — куда мы катимся — Артём Зайцев](https://youtu.be/7sAdd-F6ZiU)
+* [Cоздание плагина для дартового анализатора — Дмитрий Жифарский, PushPlayLabs](https://youtu.be/I37R0BKeuHk)
+* [Sliver-ы во Flutter или как работает скролл — Михаил Зотьев, Surf](https://youtu.be/hCv3gAa5CGI)
+
 
 <a name="dartup-2020"><h4>DartUP 2020</h4></a>
 [ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTCH6RNIr7PyLrEZRlP6uKhn)
