@@ -203,6 +203,7 @@
 - [Y.music](https://music.yandex.ru/album/11609672)
 
 <a name="telegram"><h3>Каналы Telegram</h3></a>
+- [[RU] Dart & Flutter](https://t.me/ru_dart)
 - [Dart & Flutter по-русски](https://t.me/rudart)   [ссылка2](https://teleg.run/rudart)
 - [Flutter For Dev - новости, статьи, дизайн.](https://t.me/FlutterDevRu)   [ссылка2](https://teleg.run/FlutterDevRu)
 - [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)   [ссылка2](https://teleg.run/flutter_rus)
