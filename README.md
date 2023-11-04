@@ -205,7 +205,7 @@
 <a name="telegram"><h3>Каналы Telegram</h3></a>
 - [[RU] Dart & Flutter](https://t.me/ru_dart)
 - [Dart & Flutter по-русски](https://t.me/rudart)   [ссылка2](https://teleg.run/rudart)
-- [Flutter For Dev - новости, статьи, дизайн.](https://t.me/FlutterDevRu)   [ссылка2](https://teleg.run/FlutterDevRu)
+- [Flutter For Dev - новости, статьи, дизайн.](https://t.me/FlutterForDev)   [ссылка2](https://teleg.run/FlutterForDev)
 - [Flutter Developers — русскоговорящее сообщество](https://t.me/flutter_rus)   [ссылка2](https://teleg.run/flutter_rus)
 - [Flutter Dev Подкаст](https://t.me/flutterdevpodcast)   [ссылка2](https://teleg.run/flutterdevpodcast)
 - [🗽 NEWS Flutter Dev Подкаст](https://t.me/flutterdevpodcast_news)   [ссылка2](https://teleg.run/flutterdevpodcast_news)
