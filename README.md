@@ -36,6 +36,7 @@
 <a name="meetups"><h3>Записи митапов</h3></a>
 
 <a name="yandex_school" >ШМР Flutter<a/>
+[ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLIh9yLdjK2YepDyvvvHR-_Iv_YD-W-gSP)
 * [Flutter - Вводная про платформу](https://www.youtube.com/live/vrSAHrU5NQ4?si=bYDn40429rzPyCED)
 * [Flutter – Routes&Navigation](https://www.youtube.com/live/wbw-8DaIRFc?si=tbYYPbbUpy7yDT3l)
 * [Flutter – Event Loop, Isolates; Advanced Networkin](https://www.youtube.com/live/gpwXBljSbTM?si=0wpYbhVD4XXutfrG)
