@@ -18,6 +18,7 @@
   * [OTUS](#otus)
   * [Митап разработчиков Лига Ставок х Яндекс](#liga_stavok)
   * [Яндекс Академия](#yandex_academy)
+  * [ШМР Flutter](#yandex_school)
 - [Видео посвященные Flutter](#video)
 - [Статьи](#articles)
   * [[По докам] Flutter](#for_docs)
