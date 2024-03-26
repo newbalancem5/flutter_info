@@ -35,7 +35,7 @@
   
 <a name="meetups"><h3>Записи митапов</h3></a>
 
-<a name="yandex_school" >ШМР Flutter<a/>
+<a name="yandex_school" ><h4>ШМР Flutter</h4><a/>
 
 [ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLIh9yLdjK2YepDyvvvHR-_Iv_YD-W-gSP)
 * [Flutter - Вводная про платформу](https://www.youtube.com/live/vrSAHrU5NQ4?si=bYDn40429rzPyCED)
