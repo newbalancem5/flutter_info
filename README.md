@@ -34,6 +34,32 @@
   
 <a name="meetups"><h3>Записи митапов</h3></a>
 
+<a name="yandex_school" >ШМР Flutter<a/>
+
+[ссылка на весь плейлист](https://www.youtube.com/playlist?list=PLIh9yLdjK2YepDyvvvHR-_Iv_YD-W-gSP)
+* [Flutter - Вводная про платформу](https://www.youtube.com/live/vrSAHrU5NQ4?si=bYDn40429rzPyCED)
+* [Flutter – Routes&Navigation](https://www.youtube.com/live/wbw-8DaIRFc?si=tbYYPbbUpy7yDT3l)
+* [Flutter – Event Loop, Isolates; Advanced Networkin](https://www.youtube.com/live/gpwXBljSbTM?si=0wpYbhVD4XXutfrG)
+* [Flutter Persistence](https://www.youtube.com/live/xManvu0z4mU?si=KQbktYlHEg7OKqN-)
+* [FlutterAdvanced Widgets](https://www.youtube.com/live/yIkT-5aX898?si=71e15VI6vP3cKcrH)
+* [Flutter App Architecture Overview. State Management](https://www.youtube.com/live/0WIz-Wy8k3E?si=NVMBab_ykCya7oAD)
+* [Flutter Animations](https://www.youtube.com/live/gUPy4nwiR0s?si=ONRV1kd7rmwiNYgh)
+* [pub.dev and package versioning](https://www.youtube.com/live/Tl2JKOsSbXg?si=xH7QXYATcTLF73TK)
+* [Кодогенерация](https://www.youtube.com/live/eYqPSTUDv2E?si=wu2yy35ScBLIulKL)
+* [Взаимодействие с нативом на Flutter](https://www.youtube.com/live/c5NqHN8GEgY?si=nYnxBdd7s6thRkpb)
+* [Тестирование](https://www.youtube.com/live/vtldt3B0Pxo?si=k-hH5E3CrWUB5DEU)
+* [Deep Links & Web URLs](https://www.youtube.com/live/3FbZOFaxYHk?si=yzK6mz3utCfAtOWI)
+* [Build and release](https://www.youtube.com/live/KhpXnyLzjCA?si=2UE4qQ9Dakgxhlm_)
+* [Flutter Web+Dekstop](https://www.youtube.com/live/_LhcHA0dm28?si=hf3mCF5MV2z9p0FS)
+* [Firebase](https://www.youtube.com/live/kxc-MgWwgn4?si=iZpt5aIsMugyFYQH)
+* [Алгоритмы - теория и практика](https://www.youtube.com/live/7pbG923ubQE?si=czyT0-tUvs55P1Fg)
+* [Что нужно знать Flutter разработчику про iOS и Android](https://www.youtube.com/live/LLVvVcJ4uJA?si=0Z_qVjwdv86KCc3r)
+* [Про безопасность](https://www.youtube.com/live/oBJ2SLfijYI?si=kPXnipgE9TwG9Duc)
+* [Flutter devtools. Профилируем наше приложение](https://www.youtube.com/live/fwV26wpwrDU?si=ooefLOR9prBU9z9a)
+* [KMM](https://www.youtube.com/live/sAAbHH_Yz5w?si=JcGgno4GwwGCw5m6)
+* [Воспроизведение видео](https://www.youtube.com/live/GG7RSothKBs?si=GAFHWHMhksak4iNZ)
+* [Machine Learning в мобильной разработке](https://www.youtube.com/live/u7MsQG-Ulfw?si=TTgEEMAT4xALcMQD)
+
 <a name="women_techmakers"><h4>Women Techmakers</h4></a>
 * [Алиса Цветкова: Flutter как новая нефть](https://youtu.be/9DOD5Vgw8NY)
 * [Света Кривошеева: Хороший слуга IDE. На примере vscode для flutter](https://youtu.be/JPY41GoH5sU)
@@ -44,6 +70,7 @@
 говорят о Flutter, приглашают англоговорщих гостей и задают интересные вопросы о технологии.  
 
 <a name="dartup-2021"><h4>DartUP 2021</h4></a>
+
 [ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTBFHePQCdKmZM6MCqN7OsGE)
 * [Flutter. Все грани платформенных интеграций — Александр Денисов, EPAM](https://youtu.be/m0WBNkEl9zs)
 * [Системы обработки жестов и фокусов во Flutter — Света Кривошеева, Effective](https://youtu.be/-qG8ROClueo)
@@ -56,6 +83,7 @@
 
 
 <a name="dartup-2020"><h4>DartUP 2020</h4></a>
+
 [ссылка на весь плейлист](https://youtube.com/playlist?list=PLxcvsYzLfaTCH6RNIr7PyLrEZRlP6uKhn)
   * [Александр Юрковский, Юрий Дорофеев, Optimist – Запускаем Flutter внутри VK Mini Apps](https://youtu.be/OMZdeMIO7Oo)
   * [Евгений Сатуров, Surf – Gear up, ускоряем Flutter-разработку](https://youtu.be/Qs-uixwYR28)
